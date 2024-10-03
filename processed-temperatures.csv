@@ -1,0 +1,61 @@
+City,Month,Average,Min,Max
+San Diego,July,17.13,0.2,39.4
+San Diego,May,22.74,1.9,39.7
+San Diego,March,19.6,0.3,40.0
+San Diego,February,19.14,2.0,39.1
+San Diego,August,18.62,0.2,39.5
+San Diego,January,21.02,2.1,39.9
+San Diego,November,16.17,0.3,39.9
+San Diego,October,19.95,0.3,39.7
+San Diego,September,19.13,0.6,40.0
+San Diego,April,20.7,0.4,39.9
+San Diego,December,15.76,0.1,39.3
+San Diego,June,23.46,0.8,38.9
+New York,July,20.07,1.4,39.9
+New York,June,19.8,0.4,39.7
+New York,December,19.54,1.0,39.0
+New York,August,20.05,0.1,39.5
+New York,February,22.47,0.1,39.6
+New York,October,21.26,0.8,40.0
+New York,March,19.5,0.0,39.9
+New York,April,20.26,0.0,38.3
+New York,September,19.35,0.5,39.0
+New York,November,19.89,1.0,38.8
+New York,May,21.46,0.7,39.8
+New York,January,18.96,0.5,39.2
+Austin,November,17.71,0.0,39.8
+Austin,September,21.05,0.0,39.9
+Austin,July,17.86,0.3,39.7
+Austin,June,19.29,2.2,39.1
+Austin,March,20.07,0.2,40.0
+Austin,February,20.97,0.6,39.8
+Austin,May,21.01,0.3,39.8
+Austin,August,19.62,0.0,36.6
+Austin,October,16.44,0.2,39.9
+Austin,April,20.84,0.3,39.8
+Austin,December,18.92,0.5,39.9
+Austin,January,20.61,0.7,39.8
+Phoenix,July,19.88,3.8,38.8
+Phoenix,February,17.07,2.9,38.8
+Phoenix,December,22.07,0.2,39.4
+Phoenix,November,20.7,0.6,39.5
+Phoenix,June,21.62,1.8,39.9
+Phoenix,January,20.56,0.5,39.2
+Phoenix,May,20.34,0.7,39.9
+Phoenix,October,20.15,0.3,38.8
+Phoenix,March,21.47,2.9,39.1
+Phoenix,April,22.09,1.0,39.1
+Phoenix,September,20.32,0.3,39.9
+Phoenix,August,18.12,0.9,38.5
+Seattle,September,19.88,0.2,39.6
+Seattle,March,18.14,0.4,39.9
+Seattle,April,20.74,1.2,39.5
+Seattle,August,18.15,0.2,39.7
+Seattle,November,18.34,0.1,40.0
+Seattle,July,17.54,0.1,39.9
+Seattle,December,19.24,0.6,39.8
+Seattle,October,20.66,0.8,39.3
+Seattle,January,22.12,4.4,39.8
+Seattle,May,19.93,0.2,39.6
+Seattle,February,19.13,0.0,38.6
+Seattle,June,19.52,0.3,40.0
